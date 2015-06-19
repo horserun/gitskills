@@ -1,2 +1,2 @@
-create a branck is quick this is added by
+this is a branch of dev
 # gitskills
