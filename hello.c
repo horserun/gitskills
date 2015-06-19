@@ -1,6 +1,8 @@
-
 #include <stdio.h>
 int main()
-aaaaaaaaaaaaaaaaaaaa
-{aaaaaaaaaaaaaaaa
+{
+    printf("hello world");
 }
+
+
+
