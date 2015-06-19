@@ -1,4 +1,6 @@
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbb
-ccccccc
-dddd
+
+#include <stdio.h>
+int main()
+aaaaaaaaaaaaaaaaaaaa
+{aaaaaaaaaaaaaaaa
+}
